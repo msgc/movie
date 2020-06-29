@@ -1,4 +1,4 @@
-order,sender,receiver,role,prin_invest,research_asst
+time,sender,receiver,role,prin_invest,research_asst
 1,Ted,Mary,expert,no_pi,no_ra
 2,Mary,Ted,moderator,co_pi,no_ra
 3,Ted,Mary,expert,no_pi,no_ra
