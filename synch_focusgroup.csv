@@ -1,0 +1,117 @@
+time,actor_ID,code_ID,roles,prin_inv,student
+1,1,Team effort,moderator,co_pi,not_student
+2,1,Future faculty,moderator,co_pi,not_student
+3,2,Why future?,expert,no_co_pi,not_student
+4,1,Problem identification,moderator,co_pi,not_student
+5,2,Why future?,expert,no_co_pi,not_student
+6,1,Evidence-based,moderator,co_pi,not_student
+7,1,Future faculty,moderator,co_pi,not_student
+8,2,Why undergraduate?,expert,no_co_pi,not_student
+9,1,Future faculty,moderator,co_pi,not_student
+10,2,Graduates too?,expert,no_co_pi,not_student
+11,1,Graduates too?,moderator,co_pi,not_student
+12,3,Why undergraduate?,expert,no_co_pi,not_student
+13,3,Diversification,expert,no_co_pi,not_student
+14,1,Advising,moderator,co_pi,not_student
+15,3,Science identity,expert,no_co_pi,not_student
+16,3,Advising,expert,no_co_pi,not_student
+17,1,Shared understanding,moderator,co_pi,not_student
+18,1,Shared agenda,moderator,co_pi,not_student
+19,1,Shared metrics,moderator,co_pi,not_student
+20,4,Diversification,expert,no_co_pi,not_student
+21,2,Hispanic growth,expert,no_co_pi,not_student
+22,2,Domestic culture,expert,no_co_pi,not_student
+23,2,Some R1 are HSIs,expert,no_co_pi,not_student
+24,2,Fields & Disciplines,expert,no_co_pi,not_student
+25,3,Fields & Disciplines,expert,no_co_pi,not_student
+26,2,Evidence-based,expert,no_co_pi,not_student
+27,2,Diversification,expert,no_co_pi,not_student
+28,5,Fields & Disciplines,expert,no_co_pi,not_student
+29,2,Fields & Disciplines,expert,no_co_pi,not_student
+30,2,Team effort,expert,no_co_pi,not_student
+31,2,Evidence-based,expert,no_co_pi,not_student
+32,2,Team effort,expert,no_co_pi,not_student
+33,3,Team effort,expert,no_co_pi,not_student
+34,6,Team effort,expert,no_co_pi,not_student
+35,6,Lower pay,expert,no_co_pi,not_student
+36,6,Domestic culture,expert,no_co_pi,not_student
+37,2,Buy in,expert,no_co_pi,not_student
+38,6,Post-tenure review,expert,no_co_pi,not_student
+39,2,Team effort,expert,no_co_pi,not_student
+40,6,Willigness,expert,no_co_pi,not_student
+41,2,Willigness,expert,no_co_pi,not_student
+42,2,Ineffective strategies,expert,no_co_pi,not_student
+43,3,Ineffective strategies,expert,no_co_pi,not_student
+44,6,Mentoring,expert,no_co_pi,not_student
+45,6,Domestic culture,expert,no_co_pi,not_student
+46,3,Domestic culture,expert,no_co_pi,not_student
+47,6,Mentoring,expert,no_co_pi,not_student
+48,7,Diversification,expert,no_co_pi,not_student
+49,7,Ineffective strategies,expert,no_co_pi,not_student
+50,6,Peer effects,expert,no_co_pi,not_student
+51,7,Diversification,expert,no_co_pi,not_student
+52,3,Salary,expert,no_co_pi,not_student
+53,7,Financial literacy,expert,no_co_pi,not_student
+54,3,Domestic culture,expert,no_co_pi,not_student
+55,3,Lower pay,expert,no_co_pi,not_student
+56,6,Free STEM,expert,no_co_pi,not_student
+57,6,Mentoring,expert,no_co_pi,not_student
+58,8,Evidence-based,moderator,p_i,not_student
+59,5,Implicit bias,expert,no_co_pi,not_student
+60,9,Faculty focus,expert,no_co_pi,not_student
+61,9,Effective strategies,expert,no_co_pi,not_student
+62,9,Faculty focus,expert,no_co_pi,not_student
+63,6,CCs under-resourced,expert,no_co_pi,not_student
+64,9,Domestic culture,expert,no_co_pi,not_student
+65,9,Effective strategies,expert,no_co_pi,not_student
+66,9,Team effort,expert,no_co_pi,not_student
+67,5,Effective strategies,expert,no_co_pi,not_student
+68,3,Community building,expert,no_co_pi,not_student
+69,3,Equity,expert,no_co_pi,not_student
+70,3,Fields & Disciplines,expert,no_co_pi,not_student
+71,3,Team effort,expert,no_co_pi,not_student
+72,3,Self-assessment,expert,no_co_pi,not_student
+73,3,Effective strategies,expert,no_co_pi,not_student
+74,3,Diversification,expert,no_co_pi,not_student
+75,6,Self-assessment,expert,no_co_pi,not_student
+76,3,Effective strategies,expert,no_co_pi,not_student
+77,6,Evidence-based,expert,no_co_pi,not_student
+78,10,Diversification,expert,no_co_pi,not_student
+79,10,Inclusion,expert,no_co_pi,not_student
+80,10,Gender equity,expert,no_co_pi,not_student
+81,6,Evidence-based,expert,no_co_pi,not_student
+82,7,Federal guidelines,expert,no_co_pi,not_student
+83,3,Federal guidelines,expert,no_co_pi,not_student
+84,5,Federal guidelines,expert,no_co_pi,not_student
+85,11,Dissabilities,moderator,no_co_pi,student
+86,11,Equity,moderator,no_co_pi,student
+87,1,Undergrad to Grad,moderator,co_pi,not_student
+88,10,Cultural awareness,expert,no_co_pi,not_student
+89,10,Implicit bias,expert,no_co_pi,not_student
+90,11,Advising,moderator,no_co_pi,student
+91,10,Gender equity,expert,no_co_pi,not_student
+92,10,Gender equity,expert,no_co_pi,not_student
+93,10,Gender equity,expert,no_co_pi,not_student
+94,6,Ineffective strategies,expert,no_co_pi,not_student
+95,6,Effective strategies,expert,no_co_pi,not_student
+96,6,Evidence-based,expert,no_co_pi,not_student
+97,6,Effective strategies,expert,no_co_pi,not_student
+98,11,Future faculty,moderator,no_co_pi,student
+99,4,Team effort,expert,no_co_pi,not_student
+100,1,Cultural awareness,moderator,co_pi,not_student
+101,11,Diversification,moderator,no_co_pi,student
+102,6,Domestic culture,expert,no_co_pi,not_student
+103,4,Changing practices,expert,no_co_pi,not_student
+104,4,Action group,expert,no_co_pi,not_student
+105,5,Action group,expert,no_co_pi,not_student
+106,4,Changing practices,expert,no_co_pi,not_student
+107,1,Changing practices,moderator,co_pi,not_student
+108,4,Changing practices,expert,no_co_pi,not_student
+109,4,Multi-model,expert,no_co_pi,not_student
+110,5,Pred. analytics,expert,no_co_pi,not_student
+111,5,Intrusive advisement,expert,no_co_pi,not_student
+112,10,Intrusive advisement,expert,no_co_pi,not_student
+113,10,Pred. analytics,expert,no_co_pi,not_student
+114,6,Feedback,expert,no_co_pi,not_student
+115,5,Feedback,expert,no_co_pi,not_student
+116,6,Feedback,expert,no_co_pi,not_student
