@@ -1,0 +1,118 @@
+time,actor_ID,code_ID,text_code,roles,prin_inv,student
+1,ID1,Team effort,believe can address shortage if working collectively,moderator,co_pi,not_student
+2,ID1,Future faculty,our charge consists of expanding the representation on minority groups for future generations of faculty,moderator,co_pi,not_student
+3,ID2,Why future?,is future a specific word? You don’t care about existing faculty?,expert,no_co_pi,not_student
+4,ID1,Problem identification,"No, any faculty but we need to start idenditying who are going to start making the difference in the future.",moderator,co_pi,not_student
+5,ID2,Why future?,"Why future, what about current new faculty, are they gonna be excluded?",expert,no_co_pi,not_student
+6,ID1,Evidence-based,"We seek evidence-based practices, mentoring, that promote expansion of undergraduate minoritized STEM students…",moderator,co_pi,not_student
+7,ID1,Future faculty,as such this effort is focused on near future faculty. ,moderator,co_pi,not_student
+8,ID2,Why undergraduate?,"now, you mentioned undergraduate STEM minoritized students, why them and not graduate STEM students also?",expert,no_co_pi,not_student
+9,ID1,Future faculty,we want undergraduates with stronger backgrounds because of good research practices. Start training future faculty.,moderator,co_pi,not_student
+10,ID2,Graduates too?,"got it, so do you plan on expanding to graduates as well?",expert,no_co_pi,not_student
+11,ID1,Graduates too?,we could put that on the table but as of now this effort and support arte targetting undergraduates,moderator,co_pi,not_student
+12,ID3,Diversification,I think that if we need to diversify STEM and we must start at the undergraduate level.,expert,no_co_pi,not_student
+13,ID3,Why undergraduate?,"at the graduate level, we have already lost most minoritized students in STEM",expert,no_co_pi,not_student
+14,ID1,Advising,advising from an early stage is a form of cultivating identity toward academy. ,moderator,co_pi,not_student
+15,ID3,Science identity,What do we do to cultivate a science identity?,expert,no_co_pi,not_student
+16,ID3,Advising,"again, advising is key particularly at ealy stages of undergrad",expert,no_co_pi,not_student
+17,ID1,Shared understanding,"exactly, thank you, we need to have a shared understanding of this issue",moderator,co_pi,not_student
+18,ID1,Shared agenda,"with that undertanding, we may be more likely to have reach a shared agenda",moderator,co_pi,not_student
+19,ID1,Shared metrics,"also, we need to come up with metrics to inform about progress toward goals and improvement cycles, initiated work within the shared agenda.",moderator,co_pi,not_student
+20,ID4,Diversification,"I lead a vibrant effort to degree completion and STEM education, mathematics pathways between two and four year. relationships focused on diversifying stem faculty across the board",expert,no_co_pi,not_student
+21,ID2,Hispanic growth,we ought to consider that Hispanics have quadrupled in different communities and gradautes are not onlty coming from HServing institutions.,expert,no_co_pi,not_student
+22,ID2,Domestic culture,I believe that faculty from Asian or Russian background do not understand the local community and domestic culture,expert,no_co_pi,not_student
+23,ID2,Some R1 are HSIs,one should also consider that some research intensive universities are now HS institutions,expert,no_co_pi,not_student
+24,ID2,Fields & Disciplines," what about fields represented by single societies, major journals, collective responsibility in their disciplines.",expert,no_co_pi,not_student
+25,ID3,Fields & Disciplines,"in biology, we are splitters rather than lumpers, we coalesce around the discipline. That is a major piece. Physics, your chair is complicated, openness about this notion, problem and be part of the solution.",expert,no_co_pi,not_student
+26,ID2,Evidence-based,"Vision change is an awesome document. National task force for best practices in physics programs, improving teaching, mentoring, Nobel prize winning is a contributor. ",expert,no_co_pi,not_student
+27,ID2,Diversification,"graduate chairs, bridge programs, how to improve diversity. Vision change is an awesome document. National task force for best practices in physics programs, improving teaching, mentoring, Nobel prize winning is a contributor. ",expert,no_co_pi,not_student
+28,ID5,Fields & Disciplines,Culture of those departments and how much discipline is driving that decision making process.,expert,no_co_pi,not_student
+29,ID2,Fields & Disciplines,Directors of graduate studies should be brought together. Cause they do not know what to do.,expert,no_co_pi,not_student
+30,ID2,Team effort,"do these three things and it happens, that is a place in where us as a collective organization have an impact. OHIO state is our biggest champion. Other places try to do a Band-Aid approach.",expert,no_co_pi,not_student
+31,ID2,Evidence-based,"univeristy X wants to do something that we know does not work, accordingly we say no, but they still do it themselves without success. They need to understand the larger space, to inform, being related to, stay focus on. ",expert,no_co_pi,not_student
+32,ID2,Team effort,"teacher education, faculty level works best when it aligns with the provost level",expert,no_co_pi,not_student
+33,ID3,Team effort,"we have them in separate entities, we do not think dean by himself can move the needle.",expert,no_co_pi,not_student
+34,ID6,Team effort,"we need to get to people with tenure, decision makers, even at high school level to expose them to that community. Workshop HSIs, HBCUs, tribal colleges, Georgia tech, MIT.",expert,no_co_pi,not_student
+35,ID6,Lower pay,"old tenured professors have been excellent teachers years ago, but now too focused on research. Nowadays, international, willing to take lower pays.",expert,no_co_pi,not_student
+36,ID6,Domestic culture,"in going back to local communities, I completely agree in that these foregin nationals certainly don't know the local cultures.",expert,no_co_pi,not_student
+37,ID2,Buy in,"although I recognize the importance of senior faculty, you cannot convert senior faculty to buy into this",expert,no_co_pi,not_student
+38,ID6,Post-tenure review,we could do it forcefully through post-tenure review,expert,no_co_pi,not_student
+39,ID2,Team effort,some seniors are willing to participate help move the needle. Others believe for example that GRE is the only test that work (lack of).,expert,no_co_pi,not_student
+40,ID6,Willigness,those who come when you invite them are those willing to change.,expert,no_co_pi,not_student
+41,ID2,Willigness,coalition of the eager. Not coalition to the willing.,expert,no_co_pi,not_student
+42,ID2,Ineffective strategies,"We can also talk about ineffective strategies, we do not publish failures",expert,no_co_pi,not_student
+43,ID3,Ineffective strategies,love idea of publishing ineffective strategies.,expert,no_co_pi,not_student
+44,ID6,Mentoring,"integrate teaching into your research environment, plan for career success, establishing research agenda is very critical if you offer mentoring they are more likely to stay in that pipeline",expert,no_co_pi,not_student
+45,ID6,Domestic culture,"community career perspective, is needed? Challenge, get the message across for international studnents",expert,no_co_pi,not_student
+46,ID3,Domestic culture,I agree some of them are uncomfortable and do not have opportunities to engage? How do you deliberatively engage?  ,expert,no_co_pi,not_student
+47,ID6,Mentoring,"summer research project, robotics, mentoring.",expert,no_co_pi,not_student
+48,ID7,Diversification,"worked with physics society, teaching in a diverse environment, engage with people in different populations, grant funding to assess, future development in chemistry, biology, economics",expert,no_co_pi,not_student
+49,ID7,Ineffective strategies,in a related project we exploted challenges and identified what did not work.,expert,no_co_pi,not_student
+50,ID6,Peer effects,"students can be the drivers, peers can help prevent drop out, if the behavior is not given by the faculty, we can engage students.",expert,no_co_pi,not_student
+51,ID7,Diversification,"doctoral students have tangible partnerships with liberal art institutions, supervised internships, which exposes them to rich learning opportunities. ",expert,no_co_pi,not_student
+52,ID3,Salary,"a lot more money if going to the industry, need skill-sets that allow them to make choices",expert,no_co_pi,not_student
+53,ID7,Financial literacy,"financial literacy and pressures education for under and graduate students, survey and focus groups. How to optimize finances, debt triggered eagerness to high paying jobs.",expert,no_co_pi,not_student
+54,ID3,Domestic culture,"minority students are more likely to leave with debt. International students are supported, nobody talks about this one, another big elephant in the room. Fact that is a preference given to students, work 36 hours a day. International students work more and expect lower paying jobs, which leads to less funding for our students (more reliance of debt, less lab time) and then international students leave the country, anyway.",expert,no_co_pi,not_student
+55,ID3,Lower pay,"International students work more and expect lower paying jobs, which leads to less funding for our students (more reliance of debt, less lab time) and then international students leave the country, anyway.",expert,no_co_pi,not_student
+56,ID6,Free STEM,"You should not have to pay for a STEM graduate degree. Fund every student majoring in STEM, faculty need to understand that there are talented domestic students.",expert,no_co_pi,not_student
+57,ID6,Mentoring,"I have been exposed to the talent students have now. Spend time to develop and mentor, when they have access",expert,no_co_pi,not_student
+58,ID8,Evidence-based,"program X has a curriculum evidence-based teaching programs. URG vs NURG comparisons, impactful and effective teaching approaches. How we can leverage what we have done over the past 10 years?",moderator,p_i,not_student
+59,ID5,Implicit bias,"implicit bias, exclusion, bad teaching pedagogy, how do you know who your students are? All efforts can be undone in moments in the class.",expert,no_co_pi,not_student
+60,ID9,Faculty focus,"Vision and change report, deans department chairs brought together to get more people implement recommendations in life science programs. Working with faculty, not graduate students.",expert,no_co_pi,not_student
+61,ID9,Effective strategies,recognition of progress to make programs better. Several of our CC faculty members are participating in SG2 to identify what is working in CCs.,expert,no_co_pi,not_student
+62,ID9,Faculty focus,We work with faculty to provide them with skills to communicate with each other. That can really help them navigate.,expert,no_co_pi,not_student
+63,ID6,CCs under-resourced,critical piece: CCs are under-resourced schools. So if you bring resources to CCs you can get involvement,expert,no_co_pi,not_student
+64,ID9,Domestic culture,"another resource is the local community, not just about money. Institutions coming together and talk with each other.",expert,no_co_pi,not_student
+65,ID9,Effective strategies,connection with the summer institutes group. We should start figuring out strategies that work best.,expert,no_co_pi,not_student
+66,ID9,Team effort,Institutions coming together and talk with each other.,expert,no_co_pi,not_student
+67,ID5,Effective strategies,what sources of competition do you have been able to navigate this challenge to make this happen? How do you leverage the communities you bring together?,expert,no_co_pi,not_student
+68,ID3,Community building,I am connected to most of the people at this table. Lots of stuff sitting there that we can build upon. Need to diversify the faculty.,expert,no_co_pi,not_student
+69,ID3,Equity,"Go through a process of voluntary assessment, drilling down on numbers to establish a baseline, gender driven, race, disability, LGBTQ, equity situation. Somebody with equity environment, at the department rather than institution-level.",expert,no_co_pi,not_student
+70,ID3,Fields & Disciplines,"came as teams, engineering, science",expert,no_co_pi,not_student
+71,ID3,Team effort,"Notion of communication and community, collective impact. Opportunity to work on all the evaluators into one conversation. Thinking as a puzzle that fits together that only works in we are intentional about it.",expert,no_co_pi,not_student
+72,ID3,Self-assessment,"voluntary assessment, drilling down on numbers to establish a baseline, gender driven, race, disability, LGBTQ, equity situation.",expert,no_co_pi,not_student
+73,ID3,Effective strategies,"Includes conference grant. Notion of communication and community, collective impact.",expert,no_co_pi,not_student
+74,ID3,Diversification,"sitting with solutions in physics, cross disciplined group. Straight up research in teaching and learning, get them all together so that they can look at things in a interdisciplinary space.",expert,no_co_pi,not_student
+75,ID6,Self-assessment,apply what ID3 is saying across different Carnegie classifications and see what happens. The whole self-assessment. Readiness to be equitable,expert,no_co_pi,not_student
+76,ID3,Effective strategies,look at the stuff that works,expert,no_co_pi,not_student
+77,ID6,Evidence-based,10 best practice areas and see what works.,expert,no_co_pi,not_student
+78,ID10,Diversification,"women in engineering program leaders, create support in colleges. Women in STEM rather than engineering. Change leader form. Grant work, involved, engineering inclusive teacher, transforming engineering culture to create more inclusion and diversity",expert,no_co_pi,not_student
+79,ID10,Inclusion,"Identify process pieces, how do we form a culture. Increases awareness on inclusion and diversity. Change in incentives are needed to affect changes.",expert,no_co_pi,not_student
+80,ID10,Gender equity,Women in STEM rather than engineering. Transforming engineering culture to create more inclusion and diversity.,expert,no_co_pi,not_student
+81,ID6,Evidence-based,"Getting faculty involvement. What work what did not etc., is this part of tenure? Senior faculty are involved in the tenure-related decisions",expert,no_co_pi,not_student
+82,ID7,Federal guidelines,federal requirements are important too,expert,no_co_pi,not_student
+83,ID3,Federal guidelines,"right, when I was in the science board we paid attention to federal requirements",expert,no_co_pi,not_student
+84,ID5,Federal guidelines,"AAU evaluates that in an individual basis. Piece on American competes legislation, education and instruction. Conversation with NSF",expert,no_co_pi,not_student
+85,ID11,Dissabilities,Disabilities is a big gap in the program. let’s keep it in mind.,moderator,no_co_pi,student
+86,ID11,Equity,"Traditionally, try to affect equity. Focus on failing, we should focus on learning. Coordination across the campus happens.",moderator,no_co_pi,student
+87,ID1,Undergrad to Grad,"Pathways to undergraduate and graduate degree, how to create that pathway.",moderator,co_pi,not_student
+88,ID10,Cultural awareness,"are those who give advice, trained in implicit bias, cultural awareness? many lines",expert,no_co_pi,not_student
+89,ID10,Implicit bias,"are those who give advice, trained in implicit bias, cultural awareness? many lines",expert,no_co_pi,not_student
+90,ID11,Advising,as teachers we end up advising students.,moderator,no_co_pi,student
+91,ID10,Gender equity,"gender equity, minority leadership training, they exist within an inequitable system",expert,no_co_pi,not_student
+92,ID10,Gender equity,"developing policies and procedure, affirmative action, parental equity (maternity), don’t want to be a spouse hire, higher entity recognizing they value difference.",expert,no_co_pi,not_student
+93,ID10,Gender equity,"Re-envisioning what the institution looks like (for families, women) how would it look like if this was equitable. How do we change the whole system to make it more equitable? Individual coming in because she is a woman will experience all sorts of pressures",expert,no_co_pi,not_student
+94,ID10,Gender equity,"Policy level, women not allowed to go to a field experience because there were no women bathroom. Communicate in my classroom how I value difference.",expert,no_co_pi,not_student
+95,ID6,Ineffective strategies,"Early adopter may be adopting too early. Systematic knowledge needs to be applied to avoid faulty implementations. If we focus on identifying practices and potential glitches, things that can be identified and are the building blocks.",expert,no_co_pi,not_student
+96,ID6,Effective strategies,of who are the stake holders and what are their roles to affect a higher bigger impact that worked. How do we replicate it to build on those? Only thing in common HBCUs have are community. How do we identify strategies?,expert,no_co_pi,not_student
+97,ID6,Evidence-based,"back to the alliance on good practices. Increasing awareness, share learning with wider audience.",expert,no_co_pi,not_student
+98,ID6,Effective strategies,"Envisioning a way to capture best practices, getting your campus ready, train those who are interested.",expert,no_co_pi,not_student
+99,ID11,Future faculty,our strategy is future faculty. We have 13 years of experience and 43 institution producing 33% of all STEM degrees. We know what we are doing. Problem is a lack of knowledge on our part to help future faculty.,moderator,no_co_pi,student
+100,ID4,Team effort,"teaching undergraduate STEM students. Not only to take from your partners’ knowledges they may have, but in addition, how is your approach aligned to your partners? ",expert,no_co_pi,not_student
+101,ID1,Cultural awareness,"with no training in cultural awareness, nothing matters. Future and new faculty should be trained on this",moderator,co_pi,not_student
+102,ID11,Diversification,"learning through diversity, there is a deficit oriented perspective. Math is math, why to change it? We need those URG students to increase diversity",moderator,no_co_pi,student
+103,ID6,Domestic culture,this also applies to international faculty. The mission at tribal colleges are intertwined with local community. Try in our cultural awareness that not everyone is the same and that context matter. Teaching piece impact everything. What are we going to present? Identify places and programs that are already helping?,expert,no_co_pi,not_student
+104,ID4,Changing practices,"smarter and better than it is, all of us can use expertise we have to strengthened. Other option is to have more faculty. ACE deans of engineering, different organizations have access to different specializations, universities, and faculty that can help with the overarching goal.",expert,no_co_pi,not_student
+105,ID4,Action group,"first website passive dissemination of information, second: pushing information (interacting giving feedback, providing options), third, more than developing a network you are developing an action group. Tailored to what institution or department needs.",expert,no_co_pi,not_student
+106,ID5,Action group,are there places to connect people such as ourselves? Connecting people is important.,expert,no_co_pi,not_student
+107,ID4,Changing practices,changing a practice as it relates to contact,expert,no_co_pi,not_student
+108,ID1,Changing practices,"what kind of strategies, we may just need a template. Where do you need help with? How do we take the knowledge from these organizations? ",moderator,co_pi,not_student
+109,ID4,Changing practices,"In one area you have a core of institutions, in another less resource intensive target.",expert,no_co_pi,not_student
+110,ID4,Multi-model,"there is room for more than one model, several activities going on that may be different for different type of populations (even same population: teaching, advising). ",expert,no_co_pi,not_student
+111,ID5,Pred. analytics,"predictive analytics and intrusive advisement. Institutions that are part of X includes, are recognizing a very important localized need within the context of the larger institution or group of institutions.",expert,no_co_pi,not_student
+112,ID5,Intrusive advisement,are recognizing a very important localized need within the context of the larger institution or group of institutions,expert,no_co_pi,not_student
+113,ID11,Intrusive advisement,"what do we need to do in the next six months. Report out, put flipchart map of connections between the SGs. What are you going to do in the next 2 to 3 months?",expert,no_co_pi,not_student
+114,ID10,Pred. analytics,Yeah we may need a model like that in that successful institution.,expert,no_co_pi,not_student
+115,ID6,Feedback,"cleanest way is to have a plan, everyone needs to have the basic pieces and then react.",expert,no_co_pi,not_student
+116,ID5,Feedback,"I like the idea of getting buy in, pieces.",expert,no_co_pi,not_student
+117,ID6,Feedback,"feedback allow people to have input into the development of the activities, communication and dissemination, collective impact.",expert,no_co_pi,not_student

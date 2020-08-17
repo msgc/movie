@@ -1,0 +1,127 @@
+time,sender,receiver,message_text,roles,prin_invest,research_asst
+1,ID2,ID1,is future a specific word? You don’t care about existing faculty?,expert,no_pi,no_ra
+2,ID1,ID2,"No, any faculty but we need to start idenditying who are going to start making the difference in the future.",moderator,co_pi,no_ra
+3,ID2,ID1,"Why future, what about current new faculty, are they gonna be excluded?",expert,no_pi,no_ra
+4,ID1,ID2,"We seek evidence-based practices, mentoring, that promote expansion of undergraduate minoritized STEM students…",moderator,co_pi,no_ra
+5,ID2,ID1,"now, you mentioned undergraduate STEM minoritized students, why them and not graduate STEM students also?",expert,no_pi,no_ra
+6,ID1,ID2,we want undergraduates with stronger backgrounds because of good research practices. Start training future faculty.,moderator,co_pi,no_ra
+7,ID2,ID1,"got it, so do you plan on expanding to graduates as well?",expert,no_pi,no_ra
+8,ID1,ID2,we could put that on the table but as of now this effort and support arte targetting undergraduates,moderator,co_pi,no_ra
+9,ID2,ID1,"thank you for considering, I am just trying to understand what the specific charge is",expert,no_pi,no_ra
+10,ID1,ID3,"what a bout you, ID3, I noticed you wanted to share something",moderator,co_pi,no_ra
+11,ID3,ID1,I think that if we need to diversify STEM and we must start at the undergraduate level.,expert,no_pi,no_ra
+12,ID1,ID3,advising from an early stage is a form of cultivating identity toward academy. ,moderator,co_pi,no_ra
+13,ID3,ID1,What do we do to cultivate a science identity?,expert,no_pi,no_ra
+14,ID1,ID3,"exactly, thank you, we need to have a shared understanding of this issue",moderator,co_pi,no_ra
+15,ID1,ID3,"with that undertanding, we may be more likely to have reach a shared agenda",moderator,co_pi,no_ra
+16,ID3,ID4,"again, advising is key particularly at ealy stages of undergrad",expert,no_pi,no_ra
+17,ID4,ID2,"I lead a vibrant effort to degree completion and STEM education, mathematics pathways between two and four year. relationships focused on diversifying stem faculty across the board",expert,no_pi,no_ra
+18,ID2,ID3,we ought to consider that Hispanics have quadrupled in different communities and gradautes are not onlty coming from HServing institutions.,expert,no_pi,no_ra
+19,ID3,ID2,"in biology, we are splitters rather than lumpers, we coalesce around the discipline. That is a major piece. Physics, your chair is complicated, openness about this notion, problem and be part of the solution.",expert,no_pi,no_ra
+20,ID2,ID5,"Vision change is an awesome document. National task force for best practices in physics programs, improving teaching, mentoring, Nobel prize winning is a contributor. ",expert,no_pi,no_ra
+21,ID5,ID2,Culture of those departments and how much discipline is driving that decision making process.,expert,no_pi,no_ra
+22,ID2,ID3,Directors of graduate studies should be brought together. Cause they do not know what to do.,expert,no_pi,no_ra
+23,ID2,ID3,"do these three things and it happens, that is a place in where us as a collective organization have an impact. OHIO state is our biggest champion. Other places try to do a Band-Aid approach.",expert,no_pi,no_ra
+24,ID3,ID2,"we have them in separate entities, we do not think dean by himself can move the needle.",expert,no_pi,no_ra
+25,ID2,ID6,"although I recognize the importance of senior faculty, you cannot convert senior faculty to buy into this",expert,no_pi,no_ra
+26,ID6,ID2,we could do it forcefully through post-tenure review,expert,no_pi,no_ra
+27,ID2,ID6,some seniors are willing to participate help move the needle. Others believe for example that GRE is the only test that work (lack of).,expert,no_pi,no_ra
+28,ID6,ID2,those who come when you invite them are those willing to change.,expert,no_pi,no_ra
+29,ID2,ID3,coalition of the eager. Not coalition to the willing.,expert,no_pi,no_ra
+30,ID3,ID2,love idea of publishing ineffective strategies.,expert,no_pi,no_ra
+31,ID2,ID5,"We can also talk about ineffective strategies, we do not publish failures",expert,no_pi,no_ra
+32,ID6,ID2,"integrate teaching into your research environment, plan for career success, establishing research agenda is very critical if you offer mentoring they are more likely to stay in that pipeline",expert,no_pi,no_ra
+33,ID2,ID3,coalition of the eager. Not coalition to the willing.,expert,no_pi,no_ra
+34,ID3,ID2,how to create buy in?,expert,no_pi,no_ra
+35,ID2,ID3,"self-selection is a key aspect, but it is not enough to make meaningful change",expert,no_pi,no_ra
+36,ID3,ID2,"exactly, the problem is that by default self-selection is minumum",expert,no_pi,no_ra
+37,ID2,ID7,perhaps with network thinking we can identify those peers,expert,no_pi,no_ra
+38,ID7,ID2,by observing those sharing similar backgrounds?,expert,no_pi,no_ra
+39,ID2,ID7,could also be across disciplines and institutions,expert,no_pi,no_ra
+40,ID7,ID2,what about different sectors,expert,no_pi,no_ra
+41,ID2,ID7,I have seen collaborations between two and four-year colleges in my home state,expert,no_pi,no_ra
+42,ID7,ID2,is that faculty driven or are there university-wide initiaitives?,expert,no_pi,no_ra
+43,ID2,ID1,"what are we thinking ID1, do you have any preference, recommendation?",expert,no_pi,no_ra
+44,ID1,ID2,I think this is something we all should discuss.,moderator,co_pi,no_ra
+45,ID2,ID3,"in you case, have you seen any successful example? Or unsuccessful?",expert,no_pi,no_ra
+46,ID3,ID7,"well, my main concern is that this takes a lot of time and effort. Tenure may delay these efforts.",expert,no_pi,no_ra
+47,ID7,ID3,"tenure in what sense, those on the tenure clock or those tenured who do not want to participate?",expert,no_pi,no_ra
+48,ID3,ID7,both cases are difficult and may be problematic,expert,no_pi,no_ra
+49,ID7,ID9,"does anyona share this concerns, what about you ID9, how does this work in your experience?",expert,no_pi,no_ra
+50,ID9,ID4,"it is interesting seeing tenure as a barrier, but I see how this may be applicable in many contexts. Right ID4",expert,no_pi,no_ra
+51,ID4,ID9,the challenge is how to identify strategies to entice participation,expert,no_pi,no_ra
+52,ID9,ID7,has to begin from their intrinsic commitment to help,expert,no_pi,no_ra
+53,ID7,ID9,is it more difficult when dealing with foreing faculty?,expert,no_pi,no_ra
+54,ID9,ID3,"I can see how thay may pose an extra barrier, but it also depends on the country of origin",expert,no_pi,no_ra
+55,ID3,ID9,what places would you think offer extra challenges?,expert,no_pi,no_ra
+56,ID9,ID3,"I honestly have no concrete idea, but may be Asian countries have different perspectives than Europeans ones?",expert,no_pi,no_ra
+57,ID3,ID7,"Yes, also middle easter places",expert,no_pi,no_ra
+58,ID7,ID9,wha are your toughts about south american countries?,expert,no_pi,no_ra
+59,ID9,ID11,"ID11, what do you see as problematic in buying in",expert,no_pi,no_ra
+60,ID11,ID6,"country of origin may definetely be a challenge, that's in part why we are focusing on future faculty",moderator,no_pi,r_a
+61,ID6,ID10,"so, are these participants assumed to be raised in the states?",expert,no_pi,no_ra
+62,ID10,ID6,I can see how that may be a good selection/inclusion criterion,expert,no_pi,no_ra
+63,ID6,ID10,"but what are they gaining from their participation, how does this look like?",expert,no_pi,no_ra
+64,ID10,ID6,"that is a great point, what are the incentives?",expert,no_pi,no_ra
+65,ID6,ID10,"are they receiving some sort of monetary compensation? Extra mentoring,?",expert,no_pi,no_ra
+66,ID10,ID7,this reminds me a bit the NSF and IED pre-doct training programs. ,expert,no_pi,no_ra
+67,ID7,ID6,are we forming teachers/facutly? ,expert,no_pi,no_ra
+68,ID6,ID3,recall these studnets are in STEM and not necessarily interested in pursuing a faculty career,expert,no_pi,no_ra
+69,ID3,ID10,"yes, may be we can get buy in by also focusing on research",expert,no_pi,no_ra
+70,ID10,ID6,"so, reinforcing boht the teaching and research, and service aspects? ",expert,no_pi,no_ra
+71,ID6,ID1,"whay dio you think ID1, is this something that we may want to pursue? Starting at the undergraduate level?",expert,no_pi,no_ra
+72,ID1,ID5,"yes, I see how this could sound strange particularly because we are dealing with STEM",moderator,co_pi,no_ra
+73,ID5,ID3,"competing with the industry, and the monetery compensations, is a difficut task",expert,no_pi,no_ra
+74,ID3,ID7,"yes, it may be impossible to change their minds",expert,no_pi,no_ra
+75,ID7,ID3,what about double majors? ,expert,no_pi,no_ra
+76,ID3,ID7,like having a teaching minor? Or something along those lines?,expert,no_pi,no_ra
+77,ID7,ID5,"yes, may be even broader than education, can be the social sciences in general",expert,no_pi,no_ra
+78,ID5,ID6,"that is a great point, but arent we feeding the possibility of the leaky pipeline?",expert,no_pi,no_ra
+79,ID6,ID7,"yes, what are the implications for the economy in general?",expert,no_pi,no_ra
+80,ID7,ID9,"we are not gonna change the aspirations of the majority, I do not even know if we are changing the aspirations of a few",expert,no_pi,no_ra
+81,ID9,ID3,"this is really difficult, how to approach without being accused of cooling people down",expert,no_pi,no_ra
+82,ID3,ID6,I think there is no way to avoid being accused of that,expert,no_pi,no_ra
+83,ID6,ID8,recall also that we are dealing with CCs which are are under-resourced schools. ,expert,no_pi,no_ra
+84,ID8,ID1,"so, not only cooling them down but potentially placing them in sunoptimal places?",moderator,pi,no_ra
+85,ID1,ID5,"ok, ok, I think this is taking a dark turn, …",moderator,co_pi,no_ra
+86,ID5,ID1,these are important conversations to have though,expert,no_pi,no_ra
+87,ID1,ID8,"for sure, just think we are not trying to cause any harm",moderator,co_pi,no_ra
+88,ID8,ID1,"somebody has to do thouse jobs, but unfortunately, the CC is filled with adjuncts who are severly underpaid",moderator,pi,no_ra
+89,ID1,ID3,"so this is a systemic issue, but not the charge of our session",moderator,co_pi,no_ra
+90,ID3,ID5,I am connected to most of the people at this table. Lots of stuff sitting there that we can build upon. Need to diversify the faculty.,expert,no_pi,no_ra
+91,ID5,ID9,what sources of competition do you have been able to navigate this challenge to make this happen?,expert,no_pi,no_ra
+92,ID9,ID7,Institutions coming together and talk with each other.,expert,no_pi,no_ra
+93,ID7,ID1,federal requirements are important too,expert,no_pi,no_ra
+94,ID1,ID7,"exactly, in a similar vein what about these guidelines can help us?",moderator,co_pi,no_ra
+95,ID7,ID8,evaluation and evidence based decision making,expert,no_pi,no_ra
+96,ID8,ID7,"wha evidence are we considering, what are we evaluating?",moderator,pi,no_ra
+97,ID7,ID8,what are we trying to accomplish?,expert,no_pi,no_ra
+98,ID8,ID7,diversify stem faculty in CCs,moderator,pi,no_ra
+99,ID7,ID4,"right, to do so we need systemic changes in that sector",expert,no_pi,no_ra
+100,ID4,ID7,"teaching undergraduate STEM students. Not only to take from your partners’ knowledges they may have, but in addition, how is your approach aligned to your partners? ",expert,no_pi,no_ra
+101,ID7,ID4,"low pay, lack of job security",expert,no_pi,no_ra
+102,ID4,ID8,changing a practice as it relates to contact,expert,no_pi,no_ra
+103,ID8,ID7,"yes, we need a drastic change",moderator,pi,no_ra
+104,ID7,ID1,"I know this is not part of the charge ID1, but in good conciense we ought to consider the repercusions",expert,no_pi,no_ra
+105,ID1,ID8,that is exactly right,moderator,co_pi,no_ra
+106,ID8,ID7,"this is great, we need to add this to the report",moderator,pi,no_ra
+107,ID7,ID1,how is going to read this report,expert,no_pi,no_ra
+108,ID1,ID7,"first instance NSF, these will be a set of findings and recommendations",moderator,co_pi,no_ra
+109,ID7,ID4,"I see, this is interesting",expert,no_pi,no_ra
+110,ID4,ID7,then we will make it public for overall feedback,expert,no_pi,no_ra
+111,ID4,ID6,"there is room for more than one model, several activities going on that may be different for different type of populations (even same population: teaching, advising). ",expert,no_pi,no_ra
+112,ID6,ID4,what models are you considering,expert,no_pi,no_ra
+113,ID4,ID1,"well, think of expanding articulations where faculty in 4-year research intensive can collaborate or even teach at CCs",expert,no_pi,no_ra
+114,ID1,ID5,"that is a fascinating idea, so there are not considered cooled down?",moderator,co_pi,no_ra
+115,ID5,ID4,I have seen similar initiatives,expert,no_pi,no_ra
+116,ID4,ID6,distane between institutions is key,expert,no_pi,no_ra
+117,ID6,ID4,"also, what about the online modalities?",expert,no_pi,no_ra
+118,ID4,ID6,"what kind of strategies, we may just need a template.",expert,no_pi,no_ra
+119,ID6,ID5,collaborations are interesting strategies,expert,no_pi,no_ra
+120,ID5,ID8,are recognizing a very important localized need within the context of the larger institution or group of institutions,expert,no_pi,no_ra
+121,ID8,ID7,once more domestic cultural issues seem relevant,moderator,pi,no_ra
+122,ID7,ID4,what about non-domestic faculty?,expert,no_pi,no_ra
+123,ID4,ID6,"not having born here does not mean lack of knowledge, rigth?",expert,no_pi,no_ra
+124,ID6,ID7,"I agree, it is just important to consider how students may feel about this",expert,no_pi,no_ra
+125,ID7,ID9,"cleanest way is to have a plan, everyone needs to have the basic pieces and then react.",expert,no_pi,no_ra
+126,ID9,ID7,this is all fascinating,expert,no_pi,no_ra
