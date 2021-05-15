@@ -1,0 +1,61 @@
+actor_ID,code_ID,role,major,gender,quote,time
+10,Career,Post_doctoral fellow,economics,man,"At various times in my professional career, I’ve engaged in projects that attempted to analyze such data—but nobody on each respective team, including myself, had an understanding of exactly what we were trying to do, or how to accomplish it",1
+10,Utility_Applicability,Post_doctoral fellow,economics,man,"Practically, this knowledge would have been tremendously beneficial in the past year as the Undergraduate Admissions Office conducted surveys of non-enrolling admitted students in an effort to better understand why students were choosing other institutions over UGA in their given choice sets.",2
+10,Skill_Set_Building,Post_doctoral fellow,economics,man,"I enrolled in Social and Statistical Network Analysis because the topic is utterly fascinating to me, and I know very little about it",3
+11,Utility_Applicability,"2nd year, PhD_student",sociology,woman,"I want to learn more about how I can apply quantitative methods to what has previously been though as through qualitative lenses, specifically, concepts based on types of capital (social, human, and cultural).",1
+11,Data_Visualization,"2nd year, PhD_student",sociology,woman,I expect to learn more about how to conceptualize and visualize different types of networks. I also expect to learn how to use R and manipulate data better. ,2
+12,Utility_Applicability,4th year PhD_student,brain_behavioral_sciences,woman,become more comfortable with quantitative methods for research and to become more proficient using R and other statistical software packages.,1
+12,Skill_Set_Building,4th year PhD_student,brain_behavioral_sciences,woman,develop a better understanding of the possible methods for modeling social networks,2
+12,Utility_Applicability,4th year PhD_student,brain_behavioral_sciences,woman,"uses of these models for demonstrating impacts and results to third-party stakeholders such as campus administrators, legislators, and the general public.",3
+12,Utility_Applicability,4th year PhD_student,brain_behavioral_sciences,woman,this course will aid the research that I am conducting for my assistantship,4
+13,Data_Visualization,1st year Masters,quantitative_methods,man,graphing relationships of the data using network analysis in R,1
+13,Utility_Applicability,1st year Masters,quantitative_methods,man,graphing relationships of the data using network analysis in R,2
+13,Skill_Set_Building,1st year Masters,quantitative_methods,man,I just expect to hopefully become more familiar with R and actually applying SNA,3
+14,Utility_Applicability,4th year PhD_student,geography,woman,I believe that this may prove to be a great method to bring to my field as I'm not away of anyone using it,1
+14,Utility_Applicability,4th year PhD_student,geography,woman,I would love help in conceptualizing how I could use this method in any of the current research or potential future dissertation research,2
+14,Skill_Set_Building,4th year PhD_student,geography,woman,I would love help in conceptualizing how I could use this method in any of the current research or potential future dissertation research,3
+1,Skill_Set_Building,1st year PhD,quantitative_methods,man,I am taking this course because I am interested in learning how to analyze networks using R.,1
+1,Utility_Applicability,1st year PhD,quantitative_methods,man,how to expedite network analysis when using more than one network via R code,2
+1,Skill_Set_Building,1st year PhD,quantitative_methods,man,i.e. replicating the analyses and only changing network names,3
+1,Skill_Set_Building,1st year PhD,quantitative_methods,man,"descriptive network analyses in R (centrality, density, etc), cluster analyses in R, analyzing/visualizing both two mode and one mode networks in R, key player analysis in R, and ERGMs in R",4
+2,Utility_Applicability,1st year Masters,quantitative_methods,man,it will satisfy a required course for my degree,1
+2,Skill_Set_Building,1st year Masters,quantitative_methods,man,learn more about Social and Statistical Network Analysis.,2
+2,Research_&_Dissertation,1st year Masters,quantitative_methods,man,I will be able to use methods learned in this course for future research and my dissertation. ,3
+4,Skill_Set_Building,Post_doctoral fellow,social_work,woman,I enrolled in Statistical Social Network Analysis to enhance my skill set in analyzing relational patterns within and across academic departments and administrative units of colleges and universities,1
+5,Skill_Set_Building,4th year PhD_student,geography,man,"My goals and primary interests in taking this class are driven by desires to learn more, practice more, and become much more comfortable using R",1
+5,Utility_Applicability,4th year PhD_student,geography,man,"My goals and primary interests in taking this class are driven by desires to learn more, practice more, and become much more comfortable using R",2
+5,Utility_Applicability,4th year PhD_student,geography,man,"I want to apply and bring new insights into the fields of my primary research interests that center around college student learning and success, namely attribution theory, metacognition, self-regulation, and self-regulated learning. ",3
+5,Competitive_Advantage,4th year PhD_student,geography,man,"No one is using these techniques in these areas, and I think the complexity of these areas might match well with SSNA techniques",4
+5,Career,4th year PhD_student,geography,man,I also have pipe dreams to learn how to pull and analyze social network data centered on students who have been accepted as class of 2019 at UGA.,5
+5,Data_Visualization,4th year PhD_student,geography,man,"data mine the dialogues / conversations and see what we can learn about these newly admitted students from date of acceptance through orientation, and up to the first day of class this fall.",6
+5,Data_Visualization,4th year PhD_student,geography,man,"I’m also curious about whether I can use geospatial location mapping data to discern how much time they’re spending downtown, at the dining halls, at the MLC (in class), Ramsey (working out), never leaving the dorms, etc. ",7
+6,Utility_Applicability,1st year PhD,quantitative_methods,man,I am enrolled in this course because I am interested in learning a research method that merges quantitative and qualitative techniques.,1
+6,Utility_Applicability,1st year PhD,quantitative_methods,man,"I think the idea of examining networks is useful,",2
+6,Research_&_Dissertation,1st year PhD,quantitative_methods,man,research interests and am excited to learn more about how I can apply network analysis to my own work,3
+6,Skill_Set_Building,1st year PhD,quantitative_methods,man,"me the methods behind network analysis,",4
+6,Research_&_Dissertation,1st year PhD,quantitative_methods,man,I would like to generate ideas for future research that align with my academic interests.,5
+7,Research_&_Dissertation,"2nd year, PhD_student",sociology,woman,I am taking this class because I am interested in conducting research on social capital and public service delivery networks,1
+7,Skill_Set_Building,"2nd year, PhD_student",sociology,woman," believe that acquiring the technical skills to visually represent, and to statistically analyze networks will be helpful in pursuing these research interests",2
+7,Utility_Applicability,"2nd year, PhD_student",sociology,woman," believe that acquiring the technical skills to visually represent, and to statistically analyze networks will be helpful in pursuing these research interests",3
+7,Competitive_Advantage,"2nd year, PhD_student",sociology,woman," believe that acquiring the technical skills to visually represent, and to statistically analyze networks will be helpful in pursuing these research interests",4
+7,Data_Visualization,"2nd year, PhD_student",sociology,woman,mapping and analyzing networks,5
+7,Data_Visualization,"2nd year, PhD_student",sociology,woman,"believe that acquiring the technical skills to visually represent, and to statistically analyze networks will be helpful in pursuing these research interests.",6
+8,Skill_Set_Building,1st year PhD,psychology,woman,Statistical network analysis is one of many tools that is likely to appear throughout my studies,1
+8,Utility_Applicability,1st year PhD,psychology,woman,Statistical network analysis is one of many tools that is likely to appear throughout my studies,2
+8,Skill_Set_Building,1st year PhD,psychology,woman,It is therefore my priority in taking this course to reach a level of conceptual understanding and skill proficiency that allows me to intelligently discuss and utilize statistical network analysis in my course of study,3
+8,Utility_Applicability,1st year PhD,psychology,woman,"In this same spirit, I would like to be able to determine the appropriate utilization of statistical network analysis procedures in research.",4
+8,Competitive_Advantage,1st year PhD,psychology,woman,create behavioral networks,5
+8,Research_&_Dissertation,1st year PhD,psychology,woman,for example - that we will identify some dynamic mechanisms embedded within empirical observations which prevailing theoretical frameworks fail to capture with the ideal resolution.,6
+9,Utility_Applicability,1st year PhD,business,woman,I am focusing on an institutional analysis of nonprofit intermediary college access programs using neo-institutional and organizational theories - which is the organizational data I am using for the SSNA exercises.,1
+9,Research_&_Dissertation,1st year PhD,business,woman,I'd like to use SSNA to study the access organization's partnerships and reach within the U.S.   ,2
+11,Competitive_Advantage,1st year Masters,quantitative_methods,woman,"ant to learn more about how I can apply quantitative methods to what has previously been though as through qualitative lenses,",1
+11,Skill_Set_Building,1st year Masters,quantitative_methods,woman, expect to learn more about how to conceptualize and visualize different types of networks,2
+11,Utility_Applicability,1st year Masters,quantitative_methods,woman,I also expect to learn how to use R and manipulate data better,3
+13,Competitive_Advantage,1st year Masters,business,man,and how this technique can be used to explain what we need to get across to management/businesses.,1
+14,Competitive_Advantage,3rd year PhD_student,social_work,woman,believe that this may prove to be a great method to bring to my field as I'm not away of anyone using it,1
+14,Competitive_Advantage,3rd year PhD_student,social_work,woman,"Again, given that I haven't seen much of this method in my particular field and that I think the concept is cool, i would love to be able to make it applicable. ",2
+15,Research_&_Dissertation,Post_doctoral fellow,systems_engineering,man,I am taking SNA in R to learn the tools for understanding the role networks play in virtual environments.,1
+15,Skill_Set_Building,Post_doctoral fellow,systems_engineering,man,I am taking SNA in R to learn the tools for understanding the role networks play in virtual environments.,2
+15,Utility_Applicability,Post_doctoral fellow,systems_engineering,man,I am taking SNA in R to learn the tools for understanding the role networks play in virtual environments.,3
+16,Utility_Applicability,"2nd year, PhD_student",game_design,man,to learn how to analyze already existing datasets of computer game data,1
+16,Skill_Set_Building,"2nd year, PhD_student",game_design,man,to learn how to analyze already existing datasets of computer game data,2
