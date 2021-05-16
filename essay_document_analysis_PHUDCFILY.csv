@@ -1,4 +1,4 @@
-actor_ID,code_ID,role,major,gender,quote,time
+essay_ID,code_ID,role,major,gender,quote,time
 10,Career,Post_doctoral fellow,economics,man,"At various times in my professional career, I’ve engaged in projects that attempted to analyze such data—but nobody on each respective team, including myself, had an understanding of exactly what we were trying to do, or how to accomplish it",1
 10,Utility_Applicability,Post_doctoral fellow,economics,man,"Practically, this knowledge would have been tremendously beneficial in the past year as the Undergraduate Admissions Office conducted surveys of non-enrolling admitted students in an effort to better understand why students were choosing other institutions over UGA in their given choice sets.",2
 10,Skill_Set_Building,Post_doctoral fellow,economics,man,"I enrolled in Social and Statistical Network Analysis because the topic is utterly fascinating to me, and I know very little about it",3
